@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1754599807 source:c:\users\diego\documents\algoritmos\recuperatorio281123\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1754599702 source:c:\users\diego\documents\algoritmos\recuperatorio281123\funcion.c
+	"funcion.h"
+
+1754594761 c:\users\diego\documents\algoritmos\recuperatorio281123\funcion.h
+	"tCola.h"
+
+1754594274 c:\users\diego\documents\algoritmos\recuperatorio281123\tcola.h
+	"tNodo.h"
+
+1754594238 c:\users\diego\documents\algoritmos\recuperatorio281123\tnodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1754597494 source:c:\users\diego\documents\algoritmos\recuperatorio281123\tcola.c
+	"tCola.h"
+
