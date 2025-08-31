@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1754432786 source:c:\users\diego\documents\algoritmos\parcial180625\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1754430046 source:c:\users\diego\documents\algoritmos\parcial180625\tlista.c
+	"tLista.h"
+
+1754435327 c:\users\diego\documents\algoritmos\parcial180625\tlista.h
+	"tNodo.h"
+
+1754428623 c:\users\diego\documents\algoritmos\parcial180625\tnodo.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1754435408 source:c:\users\diego\documents\algoritmos\parcial180625\funcion.c
+	"funcion.h"
+
+1754435219 c:\users\diego\documents\algoritmos\parcial180625\funcion.h
+	"tLista.h"
+
