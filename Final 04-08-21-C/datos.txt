@@ -1,0 +1,10 @@
+32842932 Pedro, Luis               34 
+29244241 Perez, Santiago           12 
+41939382 Medina, Lucia             23 
+44594893 Suarez, Carlos            12 
+29394838 Diaz, Ramona              10 
+45678912 Garcia, Gabriel           49 
+12345678 Ruiz Diaz, Juan           27 
+29874631 Valentin, Alejo           11 
+33495836 Pezetaka, Tiago           87 
+10298131 Mezzi, Leonel             19 

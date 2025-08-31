@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1755270608 source:c:\users\diego\documents\algoritmos\final040821c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1755269987 c:\users\diego\documents\algoritmos\final040821c\funcion.h
+	"tLista.h"
+
+1755270041 c:\users\diego\documents\algoritmos\final040821c\tlista.h
+	"tNodo.h"
+
+1755267579 c:\users\diego\documents\algoritmos\final040821c\tnodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1755270240 source:c:\users\diego\documents\algoritmos\final040821c\funcion.c
+	"funcion.h"
+
+1755270312 source:c:\users\diego\documents\algoritmos\final040821c\tlista.c
+	"tLista.h"
+
