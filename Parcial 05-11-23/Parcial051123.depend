@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1754402881 source:c:\users\diego\documents\algoritmos\parcial051123\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1754403410 source:c:\users\diego\documents\algoritmos\parcial051123\tarbolbinbusq.c
+	"tArbolBinBusq.h"
+
+1754403350 c:\users\diego\documents\algoritmos\parcial051123\tarbolbinbusq.h
+	"tNodo.h"
+
+1754396786 c:\users\diego\documents\algoritmos\parcial051123\tnodo.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1754405321 source:c:\users\diego\documents\algoritmos\parcial051123\funcion.c
+	"funcion.h"
+
+1754403886 c:\users\diego\documents\algoritmos\parcial051123\funcion.h
+	"tArbolBinBusq.h"
+
