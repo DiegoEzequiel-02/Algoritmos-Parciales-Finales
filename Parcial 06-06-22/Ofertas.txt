@@ -1,0 +1,32 @@
+Usuario             
+                                Producto Precio     Envio Gratis
+juanperez           
+                               zapDeport 17199.91   Si
+                             camAlgBasic 4299.57    No
+                                noteHp15 430000.00  Si
+                               aurisInam 24939.14   Si
+                                  smartW 89999.90   Si
+mariagomez          
+                               zapDeport 19399.90   No
+                             camAlgBasic 4849.52    No
+                                noteHp15 430000.00  Si
+                               aurisInam 28129.03   Si
+                                  smartW 87299.90   Si
+carlitos88          
+                               zapDeport 19999.90   Si
+                             camAlgBasic 4999.50    Si
+                                noteHp15 430000.00  Si
+                               aurisInam 28999.00   Si
+                                  smartW 89999.90   Si
+anabrito            
+                               zapDeport 17199.91   Si
+                             camAlgBasic 4299.57    No
+                                noteHp15 430000.00  Si
+                               aurisInam 24939.14   Si
+                                  smartW 89999.90   Si
+leonardo77          
+                               zapDeport 19399.90   No
+                             camAlgBasic 4849.52    No
+                                noteHp15 430000.00  Si
+                               aurisInam 28129.03   Si
+                                  smartW 87299.90   Si
