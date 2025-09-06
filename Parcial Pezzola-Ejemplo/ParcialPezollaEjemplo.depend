@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1757174868 source:c:\users\diego\documents\algoritmos\parcialpezollaejemplo\funcion.c
+	"funcion.h"
+
+1757174667 c:\users\diego\documents\algoritmos\parcialpezollaejemplo\funcion.h
+	"tArbolBinBusq.h"
+
+1757174855 c:\users\diego\documents\algoritmos\parcialpezollaejemplo\tarbolbinbusq.h
+	"tNodoArbol.h"
+
+1757166689 c:\users\diego\documents\algoritmos\parcialpezollaejemplo\tnodoarbol.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1757174748 source:c:\users\diego\documents\algoritmos\parcialpezollaejemplo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1757174738 source:c:\users\diego\documents\algoritmos\parcialpezollaejemplo\tarbolbinbusq.c
+	"tNodoArbol.h"
+
